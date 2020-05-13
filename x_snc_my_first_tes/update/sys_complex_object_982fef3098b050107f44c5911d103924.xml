@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>responsetextxml1229361944</name>
+        <namespace>TransportforLondonUnifiedAPIv1</namespace>
+        <scope_name>7fc25ff0987050107f44c5911d103951</scope_name>
+        <serialized_content>{"TransportforLondonUnifiedAPIv1:responsetextxml1229361944":{"$COCollectionField":[{"responsetextxml1229361944":{"corridorIds":["String"],"subCategory":"String","currentUpdate":"String","lastModifiedTime":"String","streets":[{"streets":{"directions":"String","sourceSystemId":"Integer","sourceSystemKey":"String","name":"String","closure":"String","segments":[{"segments":{"toid":"String","sourceSystemId":"Integer","sourceSystemKey":"String","lineString":"String"}}]}}],"roadProject":{"constructionStartDate":"String","consultationStartDate":"String","phase":"String","phase.$field_facets":{"SimpleChoiceFacet":"{\"complex_choice_map_key$\":{},\"choice_map_key$\":{\"Concept\":\"Concept\",\"Construction\":\"Construction\",\"Complete\":\"Complete\",\"Consultation\":\"Consultation\",\"Unscoped\":\"Unscoped\",\"ConsultationEnded\":\"ConsultationEnded\"}}"},"consultationEndDate":"String","cycleSuperhighwayId":"String","projectPageUrl":"String","contactEmail":"String","consultationPageUrl":"String","contactName":"String","projectSummaryPageUrl":"String","schemeName":"String","externalPageUrl":"String","boroughsBenefited":["String"],"constructionEndDate":"String","projectDescription":"String","projectName":"String","projectId":"String"},"recurringSchedules":[{"recurringSchedules":{"startTime":"String","endTime":"String"}}],"currentUpdateDateTime":"String","point":"String","publishStartDate":"String","levelOfInterest":"String","geography":{"geography":{"wellKnownBinary":"String","coordinateSystemId":"Integer","wellKnownText":"String"}},"linkUrl":"String","id":"String","severity":"String","comments":"String","isProvisional":"Boolean","linkText":"String","endDateTime":"String","hasClosures":"Boolean","timeFrame":"String","url":"String","roadDisruptionLines":[{"roadDisruptionLines":{"isDiversion":"Boolean","multiLineString":{"geography":{"wellKnownBinary":"String","coordinateSystemId":"Integer","wellKnownText":"String"}},"endDate":"String","startTime":"String","endTime":"String","id":"Integer","roadDisruptionId":"String","startDate":"String"}}],"startDateTime":"String","roadDisruptionImpactAreas":[{"roadDisruptionImpactAreas":{"polygon":{"geography":{"wellKnownBinary":"String","coordinateSystemId":"Integer","wellKnownText":"String"}},"endDate":"String","startTime":"String","endTime":"String","id":"Integer","roadDisruptionId":"String","startDate":"String"}}],"publishEndDate":"String","geometry":{"geography":{"wellKnownBinary":"String","coordinateSystemId":"Integer","wellKnownText":"String"}},"location":"String","category":"String","ordinal":"Integer","status":"String"}}],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 15:16:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>982fef3098b050107f44c5911d103924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>responsetextxml1229361944</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="London Transit Spoke" source="x_snc_my_first_tes">7fc25ff0987050107f44c5911d103951</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="London Transit Spoke">7fc25ff0987050107f44c5911d103951</sys_scope>
+        <sys_update_name>sys_complex_object_982fef3098b050107f44c5911d103924</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 15:16:55</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

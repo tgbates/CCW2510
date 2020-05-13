@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDef74b334f0b0501049e31a675be0e7d1</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7fc25ff0987050107f44c5911d103951</scope_name>
+        <serialized_content>{"FlowDesigner:FDef74b334f0b0501049e31a675be0e7d1":{"$COCollectionField":[{"status":{"reason":"String","reason.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"reason\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"bc8cd5b5-7ee9-42d6-bc01-1c783d0910e3\"}"},"name":"String","name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"name\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"1264c7f8-0f10-47b1-930d-23523ca8ba24\"}"},"description":"String","description.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"description\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"153c240b-a980-46cb-b0d2-49fd3a72c39f\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"522f6bab-395a-4d56-9dbd-0e286c6116c5\",\"default_value\":\"\",\"label\":\"Statuses\",\"mandatory\":\"false\",\"child_name\":\"status\",\"uiUniqueId\":\"8dcfe0ac-aff9-4d57-8d8e-4375d71e057c\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDef74b334f0b0501049e31a675be0e7d1\",\"child_label\":\"status\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"d5ae796d-afa9-4c4b-8cb1-dbc6ecde869e\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"75da11af-ff32-40f6-8546-c00a3d6a2dbc\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDef74b334f0b0501049e31a675be0e7d1.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"522f6bab-395a-4d56-9dbd-0e286c6116c5\",\"default_value\":\"\",\"label\":\"Statuses\",\"mandatory\":\"false\",\"child_name\":\"status\",\"uiUniqueId\":\"8dcfe0ac-aff9-4d57-8d8e-4375d71e057c\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDef74b334f0b0501049e31a675be0e7d1\",\"child_label\":\"status\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"d5ae796d-afa9-4c4b-8cb1-dbc6ecde869e\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"75da11af-ff32-40f6-8546-c00a3d6a2dbc\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 15:40:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a374b33498b050107f44c5911d1039d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDef74b334f0b0501049e31a675be0e7d1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="London Transit Spoke" source="x_snc_my_first_tes">7fc25ff0987050107f44c5911d103951</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="London Transit Spoke">7fc25ff0987050107f44c5911d103951</sys_scope>
+        <sys_update_name>sys_complex_object_a374b33498b050107f44c5911d1039d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 15:40:21</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
